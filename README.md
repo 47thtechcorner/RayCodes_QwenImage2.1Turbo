@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://youtu.be/">
-    <img src="https://img.youtube.com/vi//0.jpg" alt="Qwen Image 2.1 Turbo: Free 2K Images On 6GB Laptops!">
+  <a href="https://youtu.be/cdTB3TgD6OI">
+    <img src="https://img.youtube.com/vi/cdTB3TgD6OI/0.jpg" alt="Qwen Image 2.1 Turbo: Free 2K Images On 6GB Laptops!">
   </a>
-  <h3>📺 <a href="https://youtu.be/">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/cdTB3TgD6OI">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # 🎬 Qwen Image Turbo Thumbnail Generator
