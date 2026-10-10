@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://youtu.be/cdTB3TgD6OI">
-    <img src="https://img.youtube.com/vi/cdTB3TgD6OI/0.jpg" alt="Qwen Image 2.1 Turbo: Free 2K Images On 6GB Laptops!">
+    <img src="https://img.youtube.com/vi/cdTB3TgD6OI/0.jpg" alt="Is Qwen Image 2.1 Turbo Actually Good? 2K Images In Just 3GB Size!">
   </a>
   <h3>📺 <a href="https://youtu.be/cdTB3TgD6OI">Watch the full tutorial on YouTube</a></h3>
 </div>
